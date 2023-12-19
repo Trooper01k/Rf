@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    background-image: url("back.jpg");
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+h1{ 
+    color: aqua;
+    font-size: 50px;
+    padding-left:45%;
+}
+h2,h3,h4,h4,h5{
+    color: red;
+    padding-left:47% ;}
+
+button {
+    background-color: blue; 
+    border: none;
+    color: white;
+    padding: 10px 45px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 4px;
+    width: 200px;
+}
+
+button:hover {       
+    background-color: white; 
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
